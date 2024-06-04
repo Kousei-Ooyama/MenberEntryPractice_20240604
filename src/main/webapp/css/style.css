@@ -1,0 +1,50 @@
+@charset "UTF-8";
+.box{
+	width: 70%;
+	margin: 0 auto;
+	font-size: 20px;
+}
+.formbox{
+	padding: 0 0 30px 40px;
+}
+.textbox{
+	height: 20px;
+	width: 200px;
+}
+.inputbox{
+	margin-left:30px;
+}
+.textbox_small{
+	height:20px;
+	width:100px;
+}
+
+.inputbox select{
+	height: 30px;
+	width:210px;
+}
+.formbox .submit{
+	height: 60px;
+	width: 20%;
+	margin: 0 5px 0 5px;
+	background-color: rgb(105, 197, 252);
+}
+th,td{
+	border:solid 1px;
+	padding: 10px;
+	height: 50px;
+}
+th{
+	width:20%;	
+}
+td{
+	width: 40%;
+}
+table{
+	border-collapse:  collapse; 
+}
+.member_info_table .textbox, .member_info_table .textbox_small{
+	height: 30px;
+}
+
+
